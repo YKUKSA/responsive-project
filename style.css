@@ -27,6 +27,9 @@ p {
   font-size: 18px;
   line-height: 1.5;
 }
+.about-paragraph {
+  margin: 10px;
+}
 
 .button-link {
   border-radius: 4px;
